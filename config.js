@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Tán Crush",
-    introTitle: ' Khánh Linh❤',
+    introTitle: 'Yêu ai ❤',
     introDesc: `Trái đất vốn lạ thường
     Mà sao chị cứ đi nhầm đường
     Lạc vào tim em lẻ loi
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho chị <3', 
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
-    messDesc: 'Yêu chị Khánh Linh ❤❤❤.',
+    messDesc: 'Yêu Ai ❤❤❤.',
     btnAccept: 'Yêuu lun ❤ <3',
-    messLink: 'https://m.me/tranhoang007'
+    messLink: 'https://m.me/tranduchoang07'
 }
